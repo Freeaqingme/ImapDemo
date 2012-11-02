@@ -1,0 +1,7 @@
+CLI:
+	git clone git@github.com:Freeaqingme/ImapDemo.git --init --recursive
+	cd ImapDemo
+	php -S 127.0.0.1:8081
+
+Fill out creds.php
+Go to: http://127.0.0.1:8081
